@@ -1,0 +1,31 @@
+{
+  "name": "projeto-nodejs-rest",
+  "version": "1.0.0",
+  "description": "Projeto curso Alura",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilherme090/projeto-nodejs-rest.git"
+  },
+  "keywords": [
+    "alura",
+    "api",
+    "rest"
+  ],
+  "author": "Guilherme Simoes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guilherme090/projeto-nodejs-rest/issues"
+  },
+  "homepage": "https://github.com/guilherme090/projeto-nodejs-rest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
