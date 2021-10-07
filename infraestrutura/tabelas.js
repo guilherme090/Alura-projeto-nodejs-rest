@@ -11,7 +11,7 @@ class Tabelas {
             if(erro){
                 console.log(erro);
             }else{
-                console.log('Tabela Atendimentos criada com sucesso.');
+                console.log('Tabela Atendimentos existe no sistema.');
             }
                     });
     }
