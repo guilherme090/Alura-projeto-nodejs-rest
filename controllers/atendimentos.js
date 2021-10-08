@@ -28,7 +28,7 @@ module.exports = app => {
         const id = parseInt(req.params.id);
 
         Atendimento.deleta(id, res);
-    })
+    });
 }
 
 
